@@ -1,5 +1,5 @@
 $RefreshToken =
-“Hglo2hEolrqM6b4hKwhj76AA8WJEL4zk3DtWXfwBgfzdCQpUscoCAqEHgBdF7OcZ”
+“xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx”
 $OrgName = “LGES”
 $SDDCName = “LGES Service”
 Import-Module ./VMware.VMC.NSXT.psd1
